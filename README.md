@@ -16,68 +16,50 @@ All list community groups related to GDG Indonesia and Google technology.
 * Social Media
   - [Google+](https://plus.google.com/+GDGJakarta)
   - [Facebook Page](https://www.facebook.com/GDG-Jakarta-164096230749652/)
-* Groups
-  - [Google+ Community](https://www.google.com)
 
 ## GDG Bandung
 * [Meetup.com](https://www.meetup.com/GDG-Bandung/)
 * Social Media
-  - [Google+](https://plus.google.com/+GDGBandung)
-  - [Facebook Page](https://www.google.com)
-* Groups
-  - [Google+ Community](https://www.google.com)
-  - [Facebook Groups](https://www.google.com)
+  - [Google+](https://plus.google.com/116540975738895644478)
+  - [Facebook Page](https://www.facebook.com/gdgbdg/)
 
 ## GDG Bogor
 * [Meetup.com](https://www.meetup.com/GDG-Bogor/)
 * Social Media
-  - [Google+](https://plus.google.com/+GDGBogor)
-  - [Facebook Page](https://www.google.com)
-* Groups
-  - [Google+ Community](https://www.google.com)
-  - [Facebook Groups](https://www.google.com)
+  - [Google+](https://plus.google.com/115236007602721811397)
+  - [Facebook Page](https://www.facebook.com/gdgbogor/)
 
 ## GDG Depok
 * [Meetup.com](https://www.meetup.com/GDG-Depok/)
 * Social Media
   - [Google+](https://plus.google.com/+GDGDepok)
-  - [Facebook Page](https://www.google.com)
 * Groups
-  - [Google+ Community](https://www.google.com)
-  - [Facebook Groups](https://www.google.com)
+  - [Facebook Groups](https://www.facebook.com/groups/gdgdepok/)
 
 ## GDG Semarang
 * [Meetup.com](https://www.meetup.com/GDG-Semarang)
 * Social Media
-  - [Google+](https://plus.google.com/+GDGSemarang)
-  - [Facebook Page](https://www.google.com)
+  - [Google+](https://plus.google.com/107095076091983603214)
+  - [Facebook Page](https://www.facebook.com/GDGSemarang/)
 * Groups
-  - [Google+ Community](https://www.google.com)
-  - [Facebook Groups](https://www.google.com)
+  - [Google+ Community](https://plus.google.com/communities/116281918551537555506)
 
 ## GDG Yogyakarta
 * [Meetup.com](https://www.meetup.com/GDG-Jogjakarta/)
 * Social Media
-  - [Google+](https://plus.google.com/+GDGYogyakarta)
-  - [Facebook Page](https://www.google.com)
+  - [Google+](https://plus.google.com/109945435659234416221)
+  - [Facebook Page](https://www.facebook.com/gdg.jogjakarta/)
 * Groups
-  - [Google+ Community](https://www.google.com)
-  - [Facebook Groups](https://www.google.com)
+  - [Google+ Community](https://plus.google.com/communities/111523057334940282642)
 
 ## GDG Surabaya
 * [Meetup.com](https://www.meetup.com/GDGSurabaya/)
 * Social Media
-  - [Google+](https://plus.google.com/+GDGSurabaya)
-  - [Facebook Page](https://www.google.com)
-* Groups
-  - [Google+ Community](https://www.google.com)
-  - [Facebook Groups](https://www.google.com)
+  - [Google+](https://plus.google.com/+gdgsurabayaorg)
+  - [Facebook Page](https://www.facebook.com/GDGSurabaya/)
 
 ## GDG Bali
 * [Meetup.com](https://www.meetup.com/GDG-Bali/)
 * Social Media
-  - [Google+](https://plus.google.com/+GDGBali)
-  - [Facebook Page](https://www.google.com)
-* Groups
-  - [Google+ Community](https://www.google.com)
-  - [Facebook Groups](https://www.google.com)
+  - [Google+](https://plus.google.com/107250991524800875957)
+  - [Facebook Page](https://www.facebook.com/gdgbali/)
