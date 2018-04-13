@@ -1,6 +1,5 @@
 # listcommunitygroup-gdgindonesia
-All list community groups related to GDG Indonesia and Google technology.
-
+All list community groups related to Google Developer Groups Indonesia
 ## GDG Indonesia
 * Social Media
   - [Google+](https://plus.google.com/+GDGIndonesia)
@@ -63,3 +62,17 @@ All list community groups related to GDG Indonesia and Google technology.
 * Social Media
   - [Google+](https://plus.google.com/107250991524800875957)
   - [Facebook Page](https://www.facebook.com/gdgbali/)
+
+# listcommunitygroup-googletechnology
+All list community groups related to Google technology.
+
+## Progressive Web appspot
+
+## Tensorflow
+
+## Android Things
+
+## Polymer
+
+# listcommunitygroup-indonesia
+All list community groups related to Google technology.
