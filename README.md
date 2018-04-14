@@ -86,12 +86,15 @@ All list community groups related to Google technology.
 ## WWWID
 * [Telegram](https://t.me/wwwid_pwa)
 
-## Angular indonesia
+## Angular Indonesia
 * [Website](https://angular.io/)
 * [Facebook Group](https://www.facebook.com/groups/462764390497214/)
 * [Telegram](https://t.me/AngularID)
 * [Medium](https://medium.com/angularid)
 * [Github](https://github.com/angular-indonesia)
+
+## Flutter Indonesia
+* [Telegram](https://t.me/flutter_id)
 
 # listcommunitygroup-indonesia
 All list community groups related to Google technology.
@@ -109,3 +112,5 @@ All list community groups related to Google technology.
 * [Telegram](https://t.me/AndroidSemarang)
 
 ## Yogyakarta Android Community
+
+## Tegal Android Community
