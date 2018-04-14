@@ -73,18 +73,39 @@ All list community groups related to Google technology.
 ## Android Things
 
 ## Polymer
+[Telegram](https://t.me/polymer_id)
 
 ## Firebase
+
+## Golang
+* [Telegram](https://t.me/golangID)
+
+## Kotlin
+* [Telegram](https://t.me/KotlinID)
+
+## WWWID
+* [Telegram](https://t.me/wwwid_pwa)
+
+## Angular indonesia
+* [Website](https://angular.io/)
+* [Facebook Group](https://www.facebook.com/groups/462764390497214/)
+* [Telegram](https://t.me/AngularID)
+* [Medium](https://medium.com/angularid)
+* [Github](https://github.com/angular-indonesia)
 
 # listcommunitygroup-indonesia
 All list community groups related to Google technology.
 
 ## Android Dev Surabaya
+* [Telegram](https://t.me/androiddevsurabaya)
+* [Instagram]()
 
 ## Android Dev Pontianak
 
 ## Android Dev Makassar
 
 ## Semarang Android Center
+* [Website](http://sandec.org)
+* [Telegram](https://t.me/AndroidSemarang)
 
-## Yogyakarta Android Community 
+## Yogyakarta Android Community
