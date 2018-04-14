@@ -77,6 +77,7 @@ All list community groups related to Google technology.
 ## Firebase
 
 ## Golang
+* [Telegram](https://t.me/golangID)
 
 # listcommunitygroup-indonesia
 All list community groups related to Google technology.
@@ -90,5 +91,7 @@ All list community groups related to Google technology.
 ## Android Dev Makassar
 
 ## Semarang Android Center
+* [Website](http://sandec.org)
+* [Telegram](https://t.me/AndroidSemarang)
 
 ## Yogyakarta Android Community
