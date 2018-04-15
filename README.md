@@ -67,15 +67,19 @@ All list community groups related to Google Developer Groups Indonesia
 All list community groups related to Google technology.
 
 ## Progressive Web Apps
+- [Facebook Groups]()
 
 ## Tensorflow
+- [Facebook Groups]()
 
 ## Android Things
+- [Facebook Groups]()
 
 ## Polymer
 [Telegram](https://t.me/polymer_id)
 
 ## Firebase
+- [Facebook Groups]()
 
 ## Golang
 * [Telegram](https://t.me/golangID)
@@ -104,13 +108,25 @@ All list community groups related to Google technology.
 * [Instagram]()
 
 ## Android Dev Pontianak
+- [Facebook Groups]()
+- [Telegram]()
 
 ## Android Dev Makassar
+- [Facebook Groups]()
+- [Telegram]()
+
+## Android Dev Medan
+- [Facebook Groups]()
+- [Telegram]()
 
 ## Semarang Android Center
 * [Website](http://sandec.org)
 * [Telegram](https://t.me/AndroidSemarang)
 
 ## Yogyakarta Android Community
+- [Facebook Groups]()
+- [Telegram]()
 
 ## Tegal Android Community
+- [Facebook Groups]()
+- [Telegram]()
